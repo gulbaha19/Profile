@@ -1,0 +1,28 @@
+.dark {
+  background-color: #1f1f1f;
+  color: white;
+  transition: all 400ms;
+}
+.dark a,
+li,
+i {
+  color: white;
+  text-decoration: none;
+  transition: color 400ms;
+}
+.dark li {
+  color: white;
+}
+.light {
+  background-color: white;
+  color: #1f1f1f;
+  text-decoration: none;
+  transition: all 400ms;
+}
+.light a,
+li,
+i {
+  color: #1f1f1f;
+  text-decoration: none;
+  transition: color 400ms;
+}
