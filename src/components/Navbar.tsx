@@ -47,6 +47,7 @@ export default function Navbar({ darkMode, handleClick }: NavBarProps) {
         display={"flex"}
         justifyContent={"center"}
         alignItems={"center"}
+        style={{ listStyleType: "none" }}
         gap={{ xs: "2rem", md: "8rem" }}
         textTransform={"lowercase"}
         fontSize={"1rem"}>

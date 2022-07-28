@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.module.css";
-import me from "../img/me.png";
+import me3 from "../img/me3.png";
 import EmojiBullet from "./EmojiBullet";
 import SocialIcon from "./SocialIcon";
 import { Box } from "@mui/material";
@@ -28,7 +28,7 @@ export default function Home() {
         alt={"image of developer"}
         style={{ background: info.gradient }}
         component={"img"}
-        src={me}
+        src={me3}
         width={{ xs: "35vh", md: "40vh" }}
         height={{ xs: "35vh", md: "40vh" }}
         borderRadius={"50%"}

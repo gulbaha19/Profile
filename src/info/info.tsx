@@ -1,4 +1,7 @@
 import tastybook from "../img/tastybook.png";
+import form from "../img/form.png";
+import table from "../img/table.png";
+
 export let colors = ["rgb(255, 251, 0), rgb(255, 38, 0)"];
 
 export const info = {
@@ -88,6 +91,18 @@ export const info = {
       live: "https://tasty-book.vercel.app",
       source: "https://github.com/gulbaha19/tastybook.git",
       image: tastybook,
+    },
+    {
+      title: "Form ",
+      live: "https://gulbaha19.github.io/tablealis/#/form",
+      source: "https://github.com/gulbaha19/tablealis",
+      image: form,
+    },
+    {
+      title: "Table ",
+      live: "https://gulbaha19.github.io/tablealis/#/table",
+      source: "https://github.com/gulbaha19/tablew",
+      image: table,
     },
   ],
 };
