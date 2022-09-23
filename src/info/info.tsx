@@ -56,6 +56,7 @@ export const info = {
   skills: {
     proficientWith: [
       "javascript",
+      "typescript"
       "react",
       "git",
       "github",
@@ -64,12 +65,14 @@ export const info = {
       "figma",
       "mobx",
       "redux",
+      "tailwind",
+      "mui"
     ],
     exposedTo: ["angular", "node"],
   },
   hobbies: [
     {
-      label: "reading",
+      label: "drawing",
       emoji: "📖",
     },
     {
@@ -103,6 +106,12 @@ export const info = {
       live: "https://gulbaha19.github.io/tablealis/#/table",
       source: "https://github.com/gulbaha19/tablew",
       image: table,
+    },
+    {
+      title: "Reqres In( use: eve.holt@reqres.in) ",
+      live: "https://gulbaha19.github.io/tablealis/#/table",
+      source: "https://intern-steel.vercel.app/registration",
+      image: https://imgur.com/aBJohCF,
     },
   ],
 };
