@@ -1,7 +1,7 @@
 import tastybook from "../img/tastybook.png";
 import form from "../img/form.png";
 import table from "../img/table.png";
-
+import Routes from "../img/Routes.png";
 export let colors = ["rgb(255, 251, 0), rgb(255, 38, 0)"];
 
 export const info = {
@@ -111,7 +111,7 @@ export const info = {
       title: "Reqres In( use: eve.holt@reqres.in) ",
       live: "https://gulbaha19.github.io/tablealis/#/table",
       source: "https://intern-steel.vercel.app/registration",
-      image: https://imgur.com/aBJohCF,
+      image: Routes,
     },
   ],
 };
