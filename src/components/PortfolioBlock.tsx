@@ -5,7 +5,10 @@ function PortfolioBlock(props: ProjectProps) {
   const { image, live, source, title } = props;
   return (
     <Box display={"flex"} flexDirection={"column"} justifyContent={"center"} alignItems={"center"}>
+      {/* <div style={{ maxWidth: "640px" }}> */}
       <Box component={"img"} src={image} alt={"mockup"} />
+      {/* </div> */}
+
       <h1 style={{ fontSize: "2rem" }}>{title}</h1>
       <Box
         className={"portfolio"}
